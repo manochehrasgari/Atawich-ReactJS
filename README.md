@@ -4,7 +4,7 @@ Use the following command to install the packages
 
 ------------------------------------------------------------
 
-Use the following command to connect to the database and run the program properly
+To connect to the database and run the program properly, first open a new terminal and use the following command
 
 ### ` npm run server-json`
 
